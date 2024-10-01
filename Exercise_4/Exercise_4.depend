@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727732832 source:d:\c++ exercise\exercise_4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

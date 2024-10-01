@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1727736958 source:d:\c++ exercise\exercise_11\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<string>
+
